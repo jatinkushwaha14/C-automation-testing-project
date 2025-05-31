@@ -16,7 +16,6 @@ This is a C# automation testing project using **Selenium WebDriver**, **ChromeDr
 
 ## Clone the Repository
 
-git clone https://github.com/your-username/SeleniumTest.git
 cd SeleniumTest
 
 
