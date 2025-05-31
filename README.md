@@ -7,10 +7,10 @@ This is a C# automation testing project using **Selenium WebDriver**, **ChromeDr
 
 ```bash
 .
-├── FormFieldTests.cs        # NUnit test class for form field interactions
-├── PracticeFormPage.cs      # Page Object Model (POM) class for form elements
-├── Program.cs               # Main entry point (optional)
-└── SeleniumTest.csproj      # Project file
+├── FormFieldTests.cs        
+├── PracticeFormPage.cs     
+├── Program.cs               
+└── SeleniumTest.csproj     
 
 ```
 
